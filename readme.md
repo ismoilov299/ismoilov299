@@ -86,4 +86,4 @@
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoilov299&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) 
+

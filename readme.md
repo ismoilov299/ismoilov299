@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asadbek</h1>
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+
 </div>  
   
 

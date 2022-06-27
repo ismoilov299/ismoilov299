@@ -1,4 +1,5 @@
-👋 Hi, I’m @MuhammadAmin7860
+👋 Hi, I’m @MuhammadAmin7860\n
+
 👀 I’m interested in data science
 🌱 I’m currently learning python
 📫 I’m looking to collaborate on Data sciences

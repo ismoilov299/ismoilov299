@@ -66,8 +66,10 @@
 
 ## BIO LINK
 <div align="center">
-## _<a href="https://ismoilov299.bio.link">my web site</a>_
+<a href="https://ismoilov299.bio.link">## _my web site_</a>
 </div>
+
+
 ## Recent Blog Posts  
   
 
@@ -82,12 +84,7 @@
 </div>  
   
 
-<br/>  
 
-<div align="center">##Bio link</div>
-<a href="https://ismoilov299.bio.link">my web site</a>
-
-<br/>
 
 
 

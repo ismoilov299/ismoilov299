@@ -68,7 +68,7 @@
 <div align="center"><b>
 <h1><a href="https://ismoilov299.bio.link">my web site</a></h1>
 </b></div>
-
+![](ismoilov299-biolink%20(1).png)
 
 ## Recent Blog Posts  
   

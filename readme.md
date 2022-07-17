@@ -64,10 +64,11 @@
 <br/>
 
 
-##Bio link
+## BIO LINK
+<div align="center">
 <a href="https://ismoilov299.bio.link">my web site</a>
-
-## Recent Blog Posts  ##
+</div>
+## Recent Blog Posts  
   
 
 <br/>  

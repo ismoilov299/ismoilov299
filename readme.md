@@ -61,10 +61,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoilov299&hide_border=true&layout=compact" align="center" style="width: 60%" /></div>  
 
-<br/>  
+<br/>
+
+<br>
 ##Bio link
 <a href="https://ismoilov299.bio.link">my web site</a>
-
+<br/>
 ## Recent Blog Posts  
   
 

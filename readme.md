@@ -65,9 +65,9 @@
 
 
 ## BIO LINK
-<div align="center">
-<a href="https://ismoilov299.bio.link">## _my web site_</a>
-</div>
+<div align="center"><b>
+<h1><a href="https://ismoilov299.bio.link">my web site</a></h1>
+</b></div>
 
 
 ## Recent Blog Posts  

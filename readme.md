@@ -63,10 +63,10 @@
 
 <br/>
 
-<br>
+
 ##Bio link
 <a href="https://ismoilov299.bio.link">my web site</a>
-<br/>
+
 ## Recent Blog Posts  
   
 

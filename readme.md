@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Asadbek<br>🌱 I’m currently learning python<br><br>👀 I’m interested in data science<br><br>📫 I’m looking to collaborate on Data sciences
 
-### My project
+
+### My project:
 [![tg_bot](https://img.shields.io/badge/telegram_bot-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/IslomilmiyolidaBot)
 
 ## 🌐 Socials:

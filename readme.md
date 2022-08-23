@@ -18,7 +18,7 @@ Hi 👋, I'm Asadbek<br>🌱 I’m currently learning python<br><br>👀 I’m i
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### My project
-[![tg_bot](https://img.shields.io/badge/telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/IslomilmiyolidaBot)
+[![tg_bot](https://img.shields.io/badge/telegram_bot-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/IslomilmiyolidaBot)
 
 
 ---

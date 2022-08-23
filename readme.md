@@ -18,8 +18,9 @@ Hi 👋, I'm Asadbek<br>🌱 I’m currently learning python<br><br>👀 I’m i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### My web site
+ismoilov299.bio.link
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ismoilov299&icon=0&color=0)](https://visitcount.itsvg.in)

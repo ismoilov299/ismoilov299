@@ -13,14 +13,12 @@ Hi 👋, I'm Asadbek<br>🌱 I’m currently learning python<br><br>👀 I’m i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ismoilov299&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoilov299&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ismoilov299&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### My web site
-ismoilov299.bio.link
+### My project
+[![tg_bot](https://img.shields.io/badge/telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/IslomilmiyolidaBot)
 
 
 ---

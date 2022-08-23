@@ -3,7 +3,7 @@ Hi 👋, I'm Asadbek<br>🌱 I’m currently learning python<br><br>👀 I’m i
 
 
 
-🤖 My project: <br>
+🤖 My project:
 <br>[![tg_bot](https://img.shields.io/badge/telegram_bot-%230077B5.svg?logo=telegram&logoColor=white?style=for-the-badge&logo=telegram)](https://t.me/IslomilmiyolidaBot)
 
 ## 🌐 Socials:

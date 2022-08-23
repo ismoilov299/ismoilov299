@@ -3,7 +3,7 @@ Hi 👋, I'm Asadbek<br>🌱 I’m currently learning python<br><br>👀 I’m i
 
 
 ## 🌐 Socials:
-[![web_site](https://img.shields.io/badge/My_website-%237289DA.svg?logo=browser&logoColor=white)](smoilov299.bio.link) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismoilov299) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismoilov299)
+[![web_site](https://img.shields.io/badge/My_website-%237289DA.svg?logo=browser&logoColor=white)](ismoilov299.bio.link) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismoilov299) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismoilov299)
 
 
 # 💻 Tech Stack:

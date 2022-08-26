@@ -21,7 +21,6 @@ Hi 👋, I'm Asadbek<br>🌱 I’m currently learning python<br><br>👀 I’m i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ismoilov299&icon=0&color=0)](https://visitcount.itsvg.in)

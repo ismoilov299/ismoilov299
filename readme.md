@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * ✉️  You can contact me at [regnad299@gmail.com](mailto:regnad299@gmail.com)
 * 🚀  I'm currently working on [ilm yo'lida telegram bot](http://t.me/IslomilmiyolidaBot)
-* 🧠  I'm learning DevOps
+* 🧠  I'm  DevOps
 
 ### Skills
 
